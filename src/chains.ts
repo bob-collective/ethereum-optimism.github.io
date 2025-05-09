@@ -294,8 +294,5 @@ export const L1_STANDARD_BRIDGE_INFORMATION: Record<
       l2Chain: 'bob-sepolia',
       l1StandardBridgeAddress: '0x75f48FE4DeAB3F9043EE995c3C84D6a2303D9a2F',
     },
-  ],
-  unichain: [
-
   ]
 }
