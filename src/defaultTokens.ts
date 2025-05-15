@@ -36,5 +36,7 @@ export const defaultTokenDataFolders = new Set([
   'xSolvBTC',
   'SolvBTC',
   'LBTC',
+  'uniBTC',
+  'BABY',
   'HybridBTC',
 ])

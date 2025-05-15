@@ -6,7 +6,7 @@
     "layer2",
     "infrastructure"
   ],
-  "timestamp": "2025-05-15T14:41:19.187Z",
+  "timestamp": "2025-05-15T15:47:27.522Z",
   "tokens": [
     {
       "chainId": 1,
@@ -32,6 +32,32 @@
         "bobBridgeAddress": "0x4200000000000000000000000000000000000010",
         "opListId": "default",
         "opTokenId": "ALEX"
+      }
+    },
+    {
+      "chainId": 60808,
+      "address": "0xe53dCec07d16D88e386AE0710E86d9a400f83c31",
+      "name": "Babylon",
+      "symbol": "BABY",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/bob-collective/ethereum-optimism.github.io/refs/heads/master/data/BABY/logo.svg",
+      "extensions": {
+        "bobBridgeAddress": "0x4200000000000000000000000000000000000010",
+        "opListId": "default",
+        "opTokenId": "BABY"
+      }
+    },
+    {
+      "chainId": 808813,
+      "address": "0x5E159518B8303A1f4eC9F9B10f077c89795DB178",
+      "name": "Babylon",
+      "symbol": "BABY",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/bob-collective/ethereum-optimism.github.io/refs/heads/master/data/BABY/logo.svg",
+      "extensions": {
+        "bobBridgeAddress": "0x4200000000000000000000000000000000000010",
+        "opListId": "default",
+        "opTokenId": "BABY"
       }
     },
     {
@@ -822,6 +848,32 @@
         "bobBridgeAddress": "0x4200000000000000000000000000000000000010",
         "opListId": "default",
         "opTokenId": "UNI"
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0x004e9c3ef86bc1ca1f0bb5c7662861ee93350568",
+      "name": "Universal BTC",
+      "symbol": "uniBTC",
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/bob-collective/ethereum-optimism.github.io/refs/heads/master/data/uniBTC/logo.svg",
+      "extensions": {
+        "bobBridgeAddress": "0x3F6cE1b36e5120BBc59D0cFe8A5aC8b6464ac1f7",
+        "opListId": "extended",
+        "opTokenId": "uniBTC"
+      }
+    },
+    {
+      "chainId": 60808,
+      "address": "0x236f8c0a61dA474dB21B693fB2ea7AAB0c803894",
+      "name": "Universal BTC",
+      "symbol": "uniBTC",
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/bob-collective/ethereum-optimism.github.io/refs/heads/master/data/uniBTC/logo.svg",
+      "extensions": {
+        "bobBridgeAddress": "0x4200000000000000000000000000000000000010",
+        "opListId": "extended",
+        "opTokenId": "uniBTC"
       }
     },
     {
