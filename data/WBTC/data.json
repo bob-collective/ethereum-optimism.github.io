@@ -17,6 +17,9 @@
     },
     "bob": {
       "address": "0x03C7054BCB39f7b2e5B2c7AcB37583e32D70Cfa3"
+    },
+    "bob-sepolia": {
+      "address": "0x629880FE9685C60ee600084C84Cb0a72E033eD13"
     }
   }
 }
