@@ -39,5 +39,4 @@ export const defaultTokenDataFolders = new Set([
   'uniBTC',
   'BABY',
   'HybridBTC.pendle',
-  'oUSDT',
 ])
