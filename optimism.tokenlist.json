@@ -6,7 +6,7 @@
     "layer2",
     "infrastructure"
   ],
-  "timestamp": "2025-07-30T14:02:01.544Z",
+  "timestamp": "2025-07-31T11:08:35.538Z",
   "tokens": [
     {
       "chainId": 1,
@@ -1230,32 +1230,6 @@
     {
       "chainId": 60808,
       "address": "0x03C7054BCB39f7b2e5B2c7AcB37583e32D70Cfa3",
-      "name": "Bridged WBTC",
-      "symbol": "WBTC",
-      "decimals": 8,
-      "logoURI": "https://raw.githubusercontent.com/bob-collective/ethereum-optimism.github.io/refs/heads/master/data/WBTC/logo.svg",
-      "extensions": {
-        "bobBridgeAddress": "0x4200000000000000000000000000000000000010",
-        "opListId": "default",
-        "opTokenId": "WBTC"
-      }
-    },
-    {
-      "chainId": 11155111,
-      "address": "0x629880FE9685C60ee600084C84Cb0a72E033eD13",
-      "name": "Wrapped BTC",
-      "symbol": "WBTC",
-      "decimals": 8,
-      "logoURI": "https://raw.githubusercontent.com/bob-collective/ethereum-optimism.github.io/refs/heads/master/data/WBTC/logo.svg",
-      "extensions": {
-        "bobBridgeAddress": "0x75f48FE4DeAB3F9043EE995c3C84D6a2303D9a2F",
-        "opListId": "default",
-        "opTokenId": "WBTC"
-      }
-    },
-    {
-      "chainId": 808813,
-      "address": "0x629880FE9685C60ee600084C84Cb0a72E033eD13",
       "name": "Bridged WBTC",
       "symbol": "WBTC",
       "decimals": 8,

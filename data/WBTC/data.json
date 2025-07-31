@@ -20,15 +20,6 @@
       "overrides": {
         "name": "Bridged WBTC"
       }
-    },
-    "sepolia": {
-      "address": "0x629880FE9685C60ee600084C84Cb0a72E033eD13"
-    },
-    "bob-sepolia": {
-      "address": "0x629880FE9685C60ee600084C84Cb0a72E033eD13",
-      "overrides": {
-        "name": "Bridged WBTC"
-      }
     }
   }
 }
