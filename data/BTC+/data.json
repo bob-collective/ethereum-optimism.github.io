@@ -2,7 +2,7 @@
   "name": "BTC+",
   "symbol": "BTC+",
   "decimals": 18,
-  "description": "",
+  "description": "BTC+ is a yield-bearing Bitcoin asset from Solv Protocol that generates yield from delta-neutral funding rate arbitrage strategies.",
   "website": "https://app.solv.finance/",
   "twitter": "@SolvProtocol",
   "tokens": {
